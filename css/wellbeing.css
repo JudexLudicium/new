@@ -1,0 +1,35 @@
+body {
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
+    width: 650px;
+    height: 476.667px;
+    margin: 50px auto;
+    padding: 0;
+    border: none;
+}
+
+h1 {
+    font-family: 'Valkyrie_C4', sans-serif;
+    text-align: center;
+    color: #000000;
+    font-size: 26px;
+}
+
+blockquote {
+    margin: 20px auto;
+    width: 80%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+blockquote p {
+    font-size: 18px;
+    font-style: italic;
+}
+
+blockquote cite {
+    font-size: 16px;
+    color: #666;
+}
