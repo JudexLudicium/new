@@ -3,7 +3,8 @@
 }
 body {
     background-color: #a3c1ad;
-    font-family: monospace;
+    font-family: -apple-system, BlinkMacSystemFont, 'Montserrat', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Open Sans', 'Helvetica Neue', sans-serif;
+    /* 1 */
     width: 650px;
     height: 476.667px;
     margin: 50px auto;
