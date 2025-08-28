@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reflections - Personal Essays</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <div class="header-content">
+                <h1 class="site-title">
+                    <a href="#" onclick="showHome()">Reflections</a>
+                </h1>
+                <nav class="main-nav">
+                    <a href="#" onclick="showHome()">Home</a>
+                    <a href="#" onclick="showAbout()">About</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <div class="container">
+            <!-- Home View -->
+            <div id="home-view" class="view active">
+                <section class="hero">
+                    <h2 class="hero-title">A collection of personal essays and observations</h2>
+                    <p class="hero-subtitle">About life, memory, and human connection</p>
+                </section>
+
+                <section class="blog-posts" id="blog-posts-grid">
+                    <!-- Blog posts will be dynamically inserted here -->
+                </section>
+            </div>
+
+            <!-- Individual Post View -->
+            <div id="post-view" class="view">
+                <article class="post-article" id="post-content">
+                    <!-- Individual post content will be inserted here -->
+                </article>
+            </div>
+
+            <!-- About View -->
+            <div id="about-view" class="view">
+                <article class="about-content">
+                    <h2>About</h2>
+                    <div class="about-text">
+                        <p>I write about the ordinary moments that shape us and the small revelations hidden in daily life. This is my attempt to make sense of the world through words, one essay at a time.</p>
+                        
+                        <p>These essays are born from quiet observations, chance encounters, and the accumulated weight of experience. They explore the spaces between what we know and what we feel, between memory and imagination, between solitude and connection.</p>
+                        
+                        <p>Thank you for reading, and for sharing in these reflections on the beautiful complexity of being human.</p>
+                    </div>
+                </article>
+            </div>
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-content">
+                <p>&copy; 2024 Reflections. All thoughts are my own.</p>
+                <p class="footer-note">Crafted with care and attention to the small details that matter.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
