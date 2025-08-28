@@ -5,14 +5,14 @@ const blogData = {
       "id": 1,
       "title": "This Random Comment Changed My Life",
       "excerpt": "For over a decade, I lived under the grip of OCD compulsions. They permeated every corner of daily life—waking up, getting ready, eating, drinking, even the simple act of breathing. What most people consider ordinary routines became exhausting rituals, draining joy and energy from each day.",
-      "date": "March 15, 2024",
+      "date": "August 28, 2025",
       "image": "attention..png",
       "content": ""
     }
   ],
   "site_info": {
     "title": "Reflections",
-    "author": "Your Name", 
+    "author": "ekaidrix", 
     "description": "A collection of personal essays and observations about life, memory, and human connection.",
     "about": "I write about the ordinary moments that shape us and the small revelations hidden in daily life. This is my attempt to make sense of the world through words, one essay at a time."
   }
