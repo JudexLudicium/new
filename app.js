@@ -1,6 +1,14 @@
 // Blog data from provided JSON
 const blogData = {
   "blog_posts": [
+     {
+      "id": 4,
+      "title": "This Random Comment Changed My Life",
+      "excerpt": "For over a decade, I lived under the grip of OCD compulsions. They permeated every corner of daily life—waking up, getting ready, eating, drinking, even the simple act of breathing. What most people consider ordinary routines became exhausting rituals, draining joy and energy from each day. Looking back, I realize how deeply this disorder shaped not only my habits but also my relationship with life itself.",
+      "date": "March 15, 2024",
+      "image": "attention..png",
+      "content": ""
+    },
     {
       "id": 4,
       "title": "The Weight of Small Moments",
