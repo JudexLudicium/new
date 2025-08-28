@@ -2,7 +2,7 @@
 const blogData = {
   "blog_posts": [
     {
-      "id": 1,
+      "id": 4,
       "title": "The Weight of Small Moments",
       "excerpt": "There's something profound about the ordinary Tuesday morning when you realize that the life you're living is exactly the one you've been unconsciously building. The coffee tastes different, the light through the kitchen window seems more deliberate.",
       "date": "March 15, 2024",
@@ -10,7 +10,7 @@ const blogData = {
       "content": "There's something profound about the ordinary Tuesday morning when you realize that the life you're living is exactly the one you've been unconsciously building. The coffee tastes different, the light through the kitchen window seems more deliberate.\n\nI've been thinking about this a lot lately – how we collect these small moments like pebbles in our pockets, not really paying attention until one day we empty them out and discover we've been carrying around an entire landscape.\n\nYesterday, while waiting for the bus, I watched an elderly man feed pigeons from a paper bag. His movements were precise, economical. He had clearly done this many times before. There was a rhythm to it – the way he reached into the bag, the gentle arc of his throw, the immediate flutter of wings.\n\nWhat struck me wasn't the kindness of the act, though that was beautiful. It was the weight of routine, the way meaning can accumulate in the most mundane activities. This man had probably been feeding these pigeons for years. In that simple gesture, I saw an entire philosophy of care, of showing up, of finding purpose in the overlooked corners of daily life.\n\nWe live in a culture obsessed with grand gestures and life-changing moments. But perhaps the real transformation happens in these quiet intervals, in the spaces between the events we think matter. Perhaps wisdom isn't found in the mountain top experiences, but in learning to pay attention to the ordinary light of ordinary days."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Letters I Never Sent", 
       "excerpt": "In the drawer of my desk, beneath old receipts and forgotten business cards, lies a collection of letters I never sent. Each one a small act of courage that I couldn't quite complete.",
       "date": "February 28, 2024",
@@ -18,7 +18,7 @@ const blogData = {
       "content": "In the drawer of my desk, beneath old receipts and forgotten business cards, lies a collection of letters I never sent. Each one a small act of courage that I couldn't quite complete.\n\nThere's the letter to my college roommate, apologizing for the fight we had over something so trivial I can barely remember what started it. There's the one to my grandmother, written three years after her funeral, full of things I wished I had told her. And there's the letter to myself at twenty-five, offering the kind of gentle advice I could have used back then.\n\nI keep telling myself I'll send them someday, or at least the ones where the recipient is still alive to receive them. But there's something about the act of writing that seems complete in itself. The letters serve their purpose just by existing, by giving form to the thoughts that would otherwise remain shapeless in my mind.\n\nMaybe that's what writing is – a way of sending letters to the world, not knowing who will receive them or when. Every essay, every story, every hastily written note is an attempt to bridge the gap between internal experience and external expression.\n\nTonight, I'm adding another letter to the collection. This one is addressed to anyone who has ever started something they couldn't finish, who has ever had words they couldn't say. Consider this your letter too, your small act of completion in a world that often feels perpetually unfinished."
     },
     {
-      "id": 3,
+      "id": 2,
       "title": "The Archaeology of Memory",
       "excerpt": "Cleaning out my childhood home last weekend, I discovered that memory is not a file cabinet but an archaeological site. Each layer tells a different story about who we thought we were.",
       "date": "January 12, 2024", 
@@ -26,7 +26,7 @@ const blogData = {
       "content": "Cleaning out my childhood home last weekend, I discovered that memory is not a file cabinet but an archaeological site. Each layer tells a different story about who we thought we were.\n\nIn the basement, I found a box labeled 'Important Papers' in my mother's careful handwriting. Inside: my elementary school report cards, a program from my high school graduation, and a letter I wrote to myself in seventh grade about what I wanted to be when I grew up. The handwriting is barely recognizable as my own.\n\nWhat struck me most was not what was preserved, but what was deemed worthy of preservation. Every family is its own civilization, creating its own artifacts, deciding what parts of the story deserve to survive.\n\nI spent hours in that basement, moving through layers of forgotten Christmas decorations and outgrown clothes, each box a different era of our family's evolution. Here was evidence of the phase when my sister played violin, the brief period when my father took up woodworking, the years when my mother collected ceramic elephants.\n\nThere's something both comforting and melancholy about this kind of excavation. These objects are proof that we existed, that we had enthusiasms and dreams that seemed important at the time. But they're also evidence of how much we forget, how quickly the passionate interests of one decade become the puzzling artifacts of the next.\n\nAs I loaded box after box into the donation truck, I realized I was participating in the ongoing project of deciding what matters, what gets kept, what gets released back into the world to become someone else's memories.\n\nPerhases this is what growing up really means – becoming the curator of your own life, learning to hold onto what serves you and let go of the rest with grace."
     },
     {
-      "id": 4,
+      "id": 1,
       "title": "Conversations with Strangers",
       "excerpt": "The woman sitting next to me on the train was reading a book I recognized. It was enough to start a conversation that would change how I think about human connection.",
       "date": "December 5, 2023",
