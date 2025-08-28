@@ -12,7 +12,7 @@ const blogData = {
   ],
   "site_info": {
     "title": "Reflections",
-    "author": "ekaidrix", 
+    "author": "Ekaidrix", 
     "description": "A collection of personal essays and observations about life, memory, and human connection.",
     "about": "I write about the ordinary moments that shape us and the small revelations hidden in daily life. This is my attempt to make sense of the world through words, one essay at a time."
   }
