@@ -7,7 +7,7 @@ const blogData = {
       "excerpt": "have i forgotten to speak?...",
       "date": "August 29, 2025",
       "image": "solidblack.jpeg",
-      "content": "have i forgotten to speak?\n\nhave i lost my voice?\n\nlet me grab my dictionary.\nsorry,\n\ni bite my tongue\n\nevery time i try.\n\nso i listen.\n\nconfused, \n\nlike a radio tuned between stations.\nstagnant,\n\nlike water left in a glass overnight.\n\nbetween two worlds apart:\n\nmoon\nand bread.\n\n…at last i’m an astronaut\nbut i ain’t no space cadet.\n\ntwo worlds apart.\n\nlit a clean place.\n\nand it’s—\n3 o’clock.\n\nalways."
+      "content": "have i forgotten to speak?\nhave i lost my voice?\n\nlet me grab my dictionary.\n\nsorry,\n\ni bite my tongue\n\nevery time i try.\n\nso i listen.\n\nconfused, \n\nlike a radio tuned between stations.\nstagnant,\n\nlike water left in a glass overnight.\n\nbetween two worlds apart:\n\nmoon\nand bread.\n\n…at last i’m an astronaut\nbut i ain’t no space cadet.\n\ntwo worlds apart.\n\nlit a clean place.\n\nand it’s—\n3 o’clock.\n\nalways."
     },
     {
       "id": 1,
