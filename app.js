@@ -2,6 +2,35 @@
 const blogData = {
   "blog_posts": [
      {
+      "id": 2,
+      "title": "3 o’clock",
+      "excerpt": "have i forgotten to speak?...",
+      "date": "August 29, 2025",
+      "image": "attention.png",
+      "content": "have i forgotten to speak?\n" +
+"have i lost my voice?\n\n" +
+"let me grab my dictionary.\n" +
+"sorry,\n" +
+"i bite my tongue\n" +
+"every time i try.\n\n" +
+"so i listen.\n" +
+"confused, \n" +
+"like a radio tuned between stations.\n" +
+"stagnant,\n" +
+"like water left in a glass overnight.\n\n" +
+"between two worlds apart:\n" +
+"moon\n" +
+"and bread.\n\n" +
+"…at last i’m an astronaut\n" +
+"but i ain’t no space cadet.\n\n" +
+"two worlds apart.\n" +
+"lit a clean place.\n" +
+"and it’s—\n" +
+"3 o’clock.\n" +
+"always.”
+
+    },
+    {
       "id": 1,
       "title": "This Random Comment Changed My Life",
       "excerpt": "For over a decade, I lived under the grip of OCD compulsions. They permeated every corner of daily life—waking up, getting ready, eating, drinking, even the simple act of breathing. What most people consider ordinary routines became exhausting rituals, draining joy and energy from each day.",
