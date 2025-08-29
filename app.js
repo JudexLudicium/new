@@ -3,32 +3,11 @@ const blogData = {
   "blog_posts": [
      {
       "id": 2,
-      "title": "3 o’clock",
+      "title": "3 o'clock",
       "excerpt": "have i forgotten to speak?...",
       "date": "August 29, 2025",
-      "image": "attention.png",
-      "content": "have i forgotten to speak?\n" +
-"have i lost my voice?\n\n" +
-"let me grab my dictionary.\n" +
-"sorry,\n" +
-"i bite my tongue\n" +
-"every time i try.\n\n" +
-"so i listen.\n" +
-"confused, \n" +
-"like a radio tuned between stations.\n" +
-"stagnant,\n" +
-"like water left in a glass overnight.\n\n" +
-"between two worlds apart:\n" +
-"moon\n" +
-"and bread.\n\n" +
-"…at last i’m an astronaut\n" +
-"but i ain’t no space cadet.\n\n" +
-"two worlds apart.\n" +
-"lit a clean place.\n" +
-"and it’s—\n" +
-"3 o’clock.\n" +
-"always.”
-
+      "image": "attention..png",
+      "content": "3 o’clock\n\nhave i forgotten to speak?\nhave i lost my voice?\n\nlet me grab my dictionary.\nsorry,\ni bite my tongue\nevery time i try.\n\nso i listen.\nconfused, \nlike a radio tuned between stations.\nstagnant,\nlike water left in a glass overnight.\n\nbetween two worlds apart:\nmoon\nand bread.\n\n…at last i’m an astronaut\nbut i ain’t no space cadet.\n\ntwo worlds apart.\nlit a clean place.\nand it’s—\n3 o’clock.\nalways."
     },
     {
       "id": 1,
