@@ -1,28 +1,37 @@
+/* Body text uses Merriweather (serif) */
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Merriweather', serif;
   max-width: 700px;
   margin: 0 auto;
   padding: 20px;
-  line-height: 1.6;
+  line-height: 1.7;
   background: #fafafa;
   color: #333;
+  font-size: 18px; /* a bit larger for readability */
 }
 
+/* Headings use Raleway (sans-serif) */
+h1, h2, h3, h4 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  color: #222;
+  margin-top: 1.5rem;
+}
+
+/* Header & footer */
 header, footer {
   text-align: center;
   margin-bottom: 2rem;
 }
 
+/* Navigation links */
 nav a {
   margin: 0 10px;
   text-decoration: none;
   color: #0077cc;
+  font-family: 'Raleway', sans-serif;
 }
 
 nav a:hover {
   text-decoration: underline;
-}
-
-h1, h2 {
-  color: #222;
 }
